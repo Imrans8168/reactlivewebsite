@@ -11,6 +11,7 @@ const Home = () =>{
                 btname="Get Started"
                 imgsrc={growth}
         />
+        
       </>
     );
 }
